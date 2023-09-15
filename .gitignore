@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+.Home.js
+/src/paginas
+/src/rotas
+/src
 
 # testing
 /coverage
